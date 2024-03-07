@@ -8,3 +8,6 @@ Typescript
 MongoDb
 Clerk
 UploadThing
+
+
+Live App: https://thread-sigma-orpin.vercel.app/
